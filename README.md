@@ -5,3 +5,5 @@ Using `SKCanvas.Save()` before applying non-rectangular clip to an image that is
 
 Left circle is done with `SKCanvas.Save()` while the right circle is done with `SKCanvas.SaveLayer()`
 ![image](https://user-images.githubusercontent.com/116768779/198153917-b3ad6980-794a-4372-928b-8897221128b6.png)
+
+Run `nuget restore` before running the demo app.
